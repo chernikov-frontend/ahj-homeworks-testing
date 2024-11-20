@@ -11,9 +11,7 @@ cache:
   - yarn.lock
 
 environment:
-  global:
-    # Puppeteer требует корректного установки Chrome
-    - PUPPETEER_SKIP_DOWNLOAD=false
+  PUPPETEER_SKIP_DOWNLOAD: false  # Puppeteer требует корректного установки Chrome
 
 install:
   - yarn install  # установка зависимостей с помощью Yarn
