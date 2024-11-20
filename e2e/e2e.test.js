@@ -8,7 +8,7 @@ describe('Тестирование взаимодействия с формой 
 
     beforeAll(async () => {
         browser = await puppeteer.launch({ 
-            headless: false,
+            headless: true,
             slowMo: 100,
             devtools: true,
         });
