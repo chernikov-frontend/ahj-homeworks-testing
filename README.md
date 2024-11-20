@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "4.Организация тестирования"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/chernikov-frontend/ahj-homeworks-testing?branch=master&svg=true)](https://ci.appveyor.com/project/chernikov-frontend/ahj-homeworks-testing)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/chernikov-frontend/ahj-homeworks-testing?branch=main&svg=true)](https://ci.appveyor.com/project/chernikov-frontend/ahj-homeworks-testing)
 
 ## Описание
 Проверка валидности банковских карт
